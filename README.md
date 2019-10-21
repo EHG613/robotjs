@@ -1,5 +1,6 @@
-robotjs-v0.5.1-electron-v70-darwin-x64.tar.gz
-robotjs-v0.5.1-electron-v70-win32-x64.tar.gz
+- robotjs-v0.5.1-electron-v70-darwin-x64.tar.gz
+- robotjs-v0.5.1-electron-v70-win32-x64.tar.gz
+- robotjs-v0.5.1-electron-v70-win32-ia32.tar.gz
 
 <p align="center"><img src="https://cldup.com/1ATDf2JMtv.png"></p>
 
